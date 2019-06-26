@@ -1,8 +1,8 @@
 
-# Title - Find Data by Proximity to a Specified Location #
+# Find Data by Proximity to a Specified Location #
 
 ## Status ##
-:_Proposed_
+_Proposed_
 
 ## Description ##
 For an upcoming cruise, we will be collecting data at three stations - 
